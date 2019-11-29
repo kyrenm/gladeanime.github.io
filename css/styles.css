@@ -657,7 +657,7 @@ screen and (-ms-high-contrast: none) {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-	width: 20%;
+	width: 10%;
 	height: auto;
 	margin-bottom: 1px;
 	-webkit-backface-visibility: hidden;
